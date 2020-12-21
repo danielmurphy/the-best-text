@@ -43,11 +43,7 @@ class TheBestText extends React.Component {
       return <span style={{ display: "inline-block", width: "50px" }} />;
     } else {
       return (
-        <img
-          className="letter"
-          src={`https://thebesttext.s3.amazonaws.com/alphabet/${color}-${c}.png`}
-          alt={c}
-        />
+        <img className="letter" src={`/alphabet/${color}-${c}.png`} alt={c} />
       );
     }
   };
