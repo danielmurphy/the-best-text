@@ -1,3 +1,13 @@
+
+# The Best Text
+Github: https://github.com/danielmurphy/the-best-text/
+
+Hosted on S3 via AWS Amplify.
+https://console.aws.amazon.com/amplify/home?region=us-east-1#/d1yks8riwnhnd0
+
+There's a webhook on the GH Repo to trigger CI in AWS https://github.com/danielmurphy/the-best-text/settings/hooks
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
